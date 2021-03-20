@@ -1,0 +1,8 @@
+안녕하세요
+민욱입니다
+hello git
+1) git pull
+2) git add.
+3) git commit 
+4) git push 
+
